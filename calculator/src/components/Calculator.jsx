@@ -22,7 +22,7 @@ export default function Calculator() {
     }
 
     function porcentagem(){
-        setNum(num / 100);
+        setNum(num / 100 * (setNum, oldnum) * num);
     }
 
     function changeSign(){
